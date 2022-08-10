@@ -1,0 +1,44 @@
+Microwave Seq2Point
+MAE  :14.5782 build2
+MAE  : 13.5092 build3
+MAE : 17.0333 build1
+
+Avg: 15.0402
+
+Dishwasher Seq2Point
+MAE  : 24.8125 build1
+MAE  : 23.3198 build3
+MAE  : 17.5898 build2
+
+Avg: 21.9074
+
+Fridge Seq2Point
+MAE: 33.5618 build6
+MAE: 30.1143 build3
+MAE: 49.6635 build5
+MAE  : 23.2893 build2
+MAE  : 30.4641 build1
+
+Avg: 32.2179
+
+
+
+LSTM Dish 
+MAE  : 11.7530 Build2
+MAE  : 25.3550 Build3
+MAE  : 13.9722 Build1
+
+Avg: 17.0267
+
+MAE  : 33.2660 build3
+MAE  : 12.5057 build1
+MAE: 13.2850 build2
+LSTM DIshwasher
+
+MAE  : 30.4641 Build1
+MAE  : 10.0200 Build2
+MAE  : 34.4923 Build6
+MAE  : 40.8069 Build3
+MAE  : 40.7067 Build5
+LSTM REF
+
